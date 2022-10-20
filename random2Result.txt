@@ -1,0 +1,7 @@
+Result
+
+$ bash -x random2.sh
++ (( Dice=RANDOM%6+1 ))
++ echo 2
+2
+
